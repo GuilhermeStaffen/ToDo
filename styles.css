@@ -87,10 +87,15 @@ input{
 	padding: 10px;
 	border: 1px solid rgb(161, 161, 163);
 	margin: 0;
+	cursor: pointer;
 }
 
 span{
 	float: left;
+}
+
+.completed {
+	text-decoration: line-through;
 }
 
 ::-webkit-scrollbar {
