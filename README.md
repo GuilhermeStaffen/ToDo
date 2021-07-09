@@ -14,7 +14,5 @@ The application is hosted on Vercel and can be accessed on this [link](https://t
 
 ## Author
 
-Me ♥
-
 | [<img src="https://avatars.githubusercontent.com/u/53901092?v=4" width=115><br><sub>@GuilhermeStaffen</sub>](https://github.com/GuilhermeStaffen) |
 | :---: |
